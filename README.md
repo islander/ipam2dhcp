@@ -2,7 +2,7 @@
 
 Script for generating isc-dhcp-server `include` sections for your subnets using [phpIPAM](https://github.com/phpipam/phpipam) database.
 
-## Configation
+## Configuration
 
 Put `my.cnf` credentials in directory with script:
 
