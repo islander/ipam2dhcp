@@ -5,7 +5,7 @@
 #  Generate isc-dhcp-server config from phpIPAM database  #
 #
 #  Modified: 2019-06-24
-#  (c)https://github/islander/ipam2dhcp                   #
+#  (c)https://github.com/islander/ipam2dhcp                   #
 ###########################################################
 
 
